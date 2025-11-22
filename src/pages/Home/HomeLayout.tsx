@@ -86,7 +86,7 @@ const HomeLayout = () => {
           <div className='flex items-center gap-3 p-4'>
             <div className='flex items-center gap-2'>
               
-              <div className='text-2xl font-extrabold tracking-tight'>NOTEPACK</div>
+              <div className='text-2xl font-extrabold tracking-tight'>LEANHDUC</div>
             </div>
             <div className='ml-auto text-sm text-muted-foreground flex items-center'>
 
